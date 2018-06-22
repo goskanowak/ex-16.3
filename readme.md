@@ -12,7 +12,7 @@ What is Webpack?
 
 ---
 
-### To simple steps:
+### A few simple steps:
 
 ##### 1. Clone repository:
 > <https://github.com/goskanowak/ex-16.3.git>
@@ -27,7 +27,3 @@ What is Webpack?
 
 ### Something Missing?
 If you have more ideas that should be on this page write or contribute.
-
-
-
-
